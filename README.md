@@ -22,8 +22,8 @@ Human_language_2 = HIN
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poojaamangal&show_icons=true&locale=en&layout=compact" alt="poojaamangal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fosssil&show_icons=true&locale=en&layout=compact" alt="poojaamangal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poojaamangal&show_icons=true&locale=en" alt="poojaamangal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fosssil&show_icons=true&locale=en" alt="poojaamangal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poojaamangal&" alt="poojaamangal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fosssil&" alt="poojaamangal" /></p>
