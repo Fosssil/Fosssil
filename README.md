@@ -1,6 +1,6 @@
 ### Hello fellow traveler 👋
 
-<h1 align="center">My name is Sagar Dahiya</h1>
+<h1 align="center">Sagar Dahiya</h1>
 <h3 align="center">Human</h3>
 
 - BTW I was missing vim when editing this file. Because I am editing it directly on github. OMG I love vim 
@@ -17,8 +17,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-Human_language_1 = ENG
-Human_language_2 = HIN
+BARK BARK 
 </p>
 
 
