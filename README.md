@@ -1,7 +1,8 @@
-### Hello fellow traveler 👋
+<h3 align="center">Hello fellow traveler 👋</h3>
 
 <h1 align="center">Sagar Dahiya</h1>
 <h3 align="center">Human</h3>
+The warrior's path is a solitary one 🥷
 
 - BTW I was missing vim when editing this file. Because I am editing it directly on github. OMG I love vim 
 
