@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hello fellow traveler 👋
 
-<!--
-**Fosssil/Fosssil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">My name is Sagar Dahiya</h1>
+<h3 align="center">Human</h3>
 
-Here are some ideas to get you started:
+- BTW I was missing vim when editing this file. Because I am editing it directly on github. OMG I love vim 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on time machine
+
+- 🌱 I’m currently learning E=mc<sup>2</sup>
+
+- 📫 How to reach me - Please don't
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+ I only want to connect with black hole
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+Human_language_1 = ENG
+Human_language_2 = HIN
+</p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poojaamangal&show_icons=true&locale=en&layout=compact" alt="poojaamangal" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poojaamangal&show_icons=true&locale=en" alt="poojaamangal" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poojaamangal&" alt="poojaamangal" /></p>
