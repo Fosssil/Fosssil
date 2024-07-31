@@ -18,12 +18,12 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-n?A 
+Error 404
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fosssil&show_icons=true&locale=en&layout=compact" alt="poojaamangal" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fosssil&show_icons=true&locale=en&layout=compact" alt="poojaamangal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fosssil&show_icons=true&locale=en" alt="poojaamangal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fosssil&" alt="poojaamangal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fosssil&" alt="poojaamangal" /></p>-->
