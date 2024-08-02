@@ -1,25 +1,20 @@
-<h3 align="center">Hello fellow traveler 👋</h3>
-
 <h1 align="center">Sagar Dahiya</h1>
-<!--<h3 align="center">Aspiring Low-Level Systems Engineer | Rational Thinker | Educator</h3>-->
+<h3 align="center">Devops Engineer</h3>
 
-<h3 align="center">"If four things are followed - having a great aim, acquiring knowledge, hard work, and perseverance - then anything can be achieved." - APJ Abdul Kalam</h3>
+ >"If four things are followed - having a great aim, acquiring knowledge, hard work, and perseverance - then anything can be achieved." - APJ Abdul Kalam
 
----
 
 ### About Me
 
-- 🔭 I’m currently working on learning Data communication.
-- 📚 I’m passionate about low-level programming, Linux kernel development, driver development, and all things fundamental to computing.
+- 📚 Currently Reading: Data communication
+- 📚 Passion: Linux kernel development and program linux related tools
 - 📖 I love reading literature, philosophy, and technical books (no self-help books, as I find them misleading).
 - 🌐 I’m an atheist who values rationality, science, and education for all.
 - 🎨 I appreciate books, music, art, movies, literature, science, computers.
 
-### Languages and Tools
+### Skills
 
-<p align="left">
- Error 404.
-</p>
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ---
 
