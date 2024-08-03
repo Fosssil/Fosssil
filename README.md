@@ -52,7 +52,7 @@ I have a research mindset and love teaching and sharing knowledge. I believe in 
 - "Ad meliora et ad maiora semper - always towards better things and towards bigger things."
 ---
 ### Contact
-- 📫 send pigeon
+- 📫 sagardahiya6969@gmail.com
 ---
 <h3 align="center">Let's make the world a more rational and scientifically-driven place together!</h3>
 <!--
