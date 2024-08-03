@@ -7,14 +7,28 @@
 ### About Me
 
 - 📚 Currently Reading: Data communication
-- 📚 Passion: Linux kernel development and program linux related tools
+- ⚙️ Passion: Linux kernel development and program linux related tools
 - 📖 I love reading literature, philosophy, and technical books (no self-help books, as I find them misleading).
 - 🌐 I’m an atheist who values rationality, science, and education for all.
 - 🎨 I appreciate books, music, art, movies, literature, science, computers.
 
 ### Skills
+Linux:
 
- [![My Skills](https://skillicons.dev/icons?i=linux,py,aws,kubernetes)](https://skillicons.dev)
+ [![Linux](https://skillicons.dev/icons?i=linux,arch,bsd,redhat,debian,kali,nix)](https://skillicons.dev)
+ 
+Devops and Cloud:
+
+  [![devops](https://skillicons.dev/icons?i=aws,ansible,git,docker,kubernetes,jenkins,terraform,grafana,prometheus)](https://skillicons.dev)
+
+ Languages:
+ 
+  [![Languages](https://skillicons.dev/icons?i=c,cmake,py,bash,gtk,mysql,qt)](https://skillicons.dev)
+
+
+ Apps: 
+ 
+  [![My Apps](https://skillicons.dev/icons?i=obsidian,vscodium,neovim,vim,latex,regex)](https://skillicons.dev)
 
 ---
 
@@ -22,14 +36,11 @@
 
 I aim to achieve great things in the future with my knowledge and deep understanding of computer science. My interests lie in working on challenging low-level projects like:
 
-- Writing encoding systems
 - Linux kernel development
 - Driver development
 - Firmware creation
 - Network internals
-- Instruction sets
 - Inter-process communication (IPC)
-- Text editors like vim
 - Compilers
 - Databases
 - System software
@@ -41,7 +52,7 @@ I have a research mindset and love teaching and sharing knowledge. I believe in 
 - "Ad meliora et ad maiora semper - always towards better things and towards bigger things."
 ---
 ### Contact
-- 📫 Please don't. But if you must, send a pigeon.
+- 📫 send pigeon
 ---
 <h3 align="center">Let's make the world a more rational and scientifically-driven place together!</h3>
 <!--
